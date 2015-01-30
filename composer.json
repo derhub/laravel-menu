@@ -7,8 +7,8 @@
     "homepage": "https://github.com/primerg/laravel-menu",
     "authors": [
         {
-            "name": "primerg",
-         }
+            "name": "primerg"
+        }
     ],
     "license": "MIT",
     "require": {
