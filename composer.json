@@ -1,14 +1,13 @@
 {
-    "name": "lavary/laravel-menu",
+    "name": "primerg/laravel-menu",
     "description": "A quick way to create menus in Laravel 4",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/lavary/laravel-menu",
+    "homepage": "https://github.com/primerg/laravel-menu",
     "authors": [
         {
-            "name": "Lavary",
-            "email": "mrl.8081@gmail.com"
+            "name": "primerg",
          }
     ],
     "license": "MIT",
