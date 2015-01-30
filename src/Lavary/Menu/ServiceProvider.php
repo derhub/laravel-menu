@@ -31,10 +31,10 @@ class ServiceProvider extends BaseServiceProvider {
 	 */
 	public function register()
 	{
-		 $this->app['menu'] = $this->app->share(function($app){
-
-		 		return new Menu();
-		 });
+		$this->app['config']->package('lavary/laravel-menu', __DIR__.'/../../config');
+		$this->app['menu'] = $this->app->share(function($app) {
+			return new Menu();
+		});
            
 	}
 

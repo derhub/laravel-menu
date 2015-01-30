@@ -1,3 +1,7 @@
+# THIS IS ONLY A FORK 
+Original is in http://lavary.github.io/laravel-menu/
+I needed to make a quick fix to make it work.
+
 # Laravel Menu
 [![Latest Stable Version](https://poser.pugx.org/lavary/laravel-menu/v/stable.svg)](https://packagist.org/packages/lavary/laravel-menu)
 [![Latest Unstable Version](https://poser.pugx.org/lavary/laravel-menu/v/unstable.svg)](https://packagist.org/packages/lavary/laravel-menu)
